@@ -15,7 +15,7 @@ var introComponent = React.createElement("div", {
   id: "intro_out"
 }, React.createElement("p", {
   id: "intro_comp"
-}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."));
+}, "Hello, My name is Shweta Shete.I am a Computer Science Graduate Student at San Diego State University. As of now i am in my second semester and planning to graduate in Spring 2023."));
 var buttonComponent = React.createElement("div", {
   id: "button_out"
 }, React.createElement("a", {
