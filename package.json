@@ -10,6 +10,16 @@
     "watch": "babel src --presets @babel/react --out-dir public --watch --verbose",
     "start":"node server/server.js"
   },
-  "author": "",
-  "license": "ISC"
+   "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7"
+  }
 }
